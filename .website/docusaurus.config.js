@@ -30,6 +30,10 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "throw",
 
+  // Canonicalize "…/index.html" to the trailing-slash URL before the app mounts,
+  // otherwise the SPA served at /index.html mounts twice (duplicated page).
+  clientModules: [require.resolve("./src/clientModules/canonicalizeIndexHtml.js")],
+
   // `static` holds site assets; the second entry is the staged Sphinx HTML
   // (see plugins/sphinx-docs.js), served verbatim at /development-stack/.
   staticDirectories: ["static", sphinxDocs.STAGING_DIR],
@@ -95,13 +99,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Robotics Dev Resources",
+        title: "Robotics AI Suite",
         items: [
           {
             // `pathname://` links to the staged static Sphinx site directly,
             // bypassing the SPA router and broken-link checks.
             to: "pathname:///development-stack/ai-suite-robotics/",
-            label: "Robotics AI Suite",
+            label: "Development Stack",
             target: "_self",
             position: "left",
           },
