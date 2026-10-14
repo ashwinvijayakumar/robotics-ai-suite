@@ -117,11 +117,3 @@ additional model, sensor, firmware, or package setup.
   and runtime tuning.
 - [Packages List](../../software_references/humanoid/packages_list.md) lists the
   supported motion-control, sensor, and pipeline packages.
-
-### Not Yet Validated
-
-Intel® Core™ Ultra Series 3 358H with Ubuntu 24.04, ROS 2 Jazzy, and the 6.17.11 real-time kernel is
-not currently validated for this Blueprint. Do not apply that platform baseline
-to Humanoid workflows until it is documented here as a validated configuration.
-
-
