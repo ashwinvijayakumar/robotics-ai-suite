@@ -19,7 +19,7 @@ specifications on Intel® ARK.
 :::
 
 :::{grid-item-card}
-:img-top: images/processor.svg
+:img-top: images/intel-core-series-3.jpg
 :link: https://www.intel.com/content/www/us/en/products/details/processors/core.html
 :link-type: url
 :link-alt: Intel Core Series 3 processors
@@ -29,7 +29,7 @@ specifications on Intel® ARK.
 :::
 
 :::{grid-item-card}
-:img-top: images/processor.svg
+:img-top: images/intel-core-ultra-series-2.png
 :link: https://www.intel.com/content/www/us/en/ark/products/series/241071/intel-core-ultra-processors-series-2.html
 :link-type: url
 :link-alt: Intel Core Ultra Processors Series 2 on Intel ARK
