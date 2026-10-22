@@ -76,7 +76,6 @@ exclude_patterns = [
     "Thumbs.db",
     ".DS_Store",
     "README.md",
-    "components/sensors/cameras/index.md",
 ]
 
 # The suffix(es) of source filenames.
@@ -122,8 +121,8 @@ html_context = {
 html_theme_options = {
     "navigation_depth": 6,
     "show_toc_level": 1,
-    "show_nav_level": 1,
-    # "collapse_navigation": False,
+    "show_nav_level": 0,
+    "collapse_navigation": False,
     # "navigation_with_keys": True,
     # Navbar Configuration
     # "navbar_start": [],  # Logo on the left
