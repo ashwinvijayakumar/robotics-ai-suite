@@ -27,7 +27,7 @@ picture to open its setup and configuration guide.
 :text-align: center
 
 **AAEON CEXD-INTRBL**
-<br><small>Intel® Core™ Ultra</small>
+<br><small>Intel® Core™ Ultra Processors</small>
 :::
 
 :::{grid-item-card}
@@ -39,7 +39,7 @@ picture to open its setup and configuration guide.
 :text-align: center
 
 **AAEON UP Nexus WCL Edge**
-<br><small>Intel® Core™</small>
+<br><small>Intel® Core™ Processors</small>
 :::
 
 :::{grid-item-card}
@@ -51,7 +51,7 @@ picture to open its setup and configuration guide.
 :text-align: center
 
 **AAEON UP WCL Edge**
-<br><small>Intel® Core™</small>
+<br><small>Intel® Core™ Processors</small>
 :::
 
 :::{grid-item-card}
@@ -63,7 +63,7 @@ picture to open its setup and configuration guide.
 :text-align: center
 
 **ASUS NUC 16**
-<br><small>Intel® Core™ Ultra<br>Intel® Core™</small>
+<br><small>Intel® Core™ Ultra Processors<br>Intel® Core™ Processors</small>
 :::
 ::::
 

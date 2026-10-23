@@ -41,8 +41,8 @@ Select the appropriate deserializer based on the your system's IPU below. Unlist
 
 | Code Name | Intel Processor | IPU Version | Deserializer |
 | --- | --- | --- | --- |
-| Panther Lake | Series 3 Intel® Core™ Ultra Processor | IPU7 | `max96724` |
-| Arrow Lake | Series 2 Intel® Core™ Ultra Processor | IPU6 | `max9296`
+| Panther Lake | Intel® Core™ Ultra Series 3 Processors | IPU7 | `max96724` |
+| Arrow Lake | Intel® Core™ Ultra Series 2 Processors | IPU6 | `max9296`
 
 ![GMSL deserializer selection dialog](../../../../images/gmsl/gmsl-dkms-select.png "gmsl deserializer selection dialog")
 
