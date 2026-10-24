@@ -65,6 +65,7 @@ Continue to the Hardware guide to learn about supported Intel processors and dev
 :::{toctree}
 :hidden:
 
+Getting Started <platform_foundation/getting_started>
 Hardware <platform_foundation/hardware>
 Platform Software <platform_foundation/platform_software>
 Middleware <components/middleware>

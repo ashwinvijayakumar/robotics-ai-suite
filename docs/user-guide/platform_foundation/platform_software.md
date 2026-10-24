@@ -58,7 +58,6 @@ Use Intel-optimized building blocks for robotics pipelines.
 :::{toctree}
 :hidden:
 
-Ubuntu <getting_started>
 Real-time Determinism <../components/realtime_determinism/index>
 Benchmarking <../components/benchmarking/index>
 Simulation <../components/simulation/index>
