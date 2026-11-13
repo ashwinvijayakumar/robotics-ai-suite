@@ -76,7 +76,7 @@ AI Suite; partner listings do not imply validation.
 :text-align: center
 
 **ASRock Industrial RBK-100**
-<br><small>Robotics-in-a-Box<br>Intel® Core™ Ultra Series 3 Processors<br>Partner listing (preliminary)</small>
+<br><small>Robotics-in-a-Box<br>Intel® Core™ Ultra Series 3 Processors</small>
 :::
 ::::
 
